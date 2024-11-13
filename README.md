@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h1 align="left">Hello world ! I'm Kamal Singh | Java Backend Engineer</h1>
 
 ###
@@ -38,7 +37,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake.svg" />
+</picture> 
 
 ###
 
@@ -52,10 +54,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalsingh1003&theme=noctis-minimus&hide_border=false&radius=16&hide_title=false" height="220" alt="activity-graph graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake.svg" />
-</picture>
+
 
 ###
