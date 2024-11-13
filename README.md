@@ -1,4 +1,4 @@
-<br clear="both">
+
 <h1 align="left">Hello world ! I'm Kamal Singh | Java Backend Engineer</h1>
 
 ###
@@ -40,7 +40,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kamalsingh1003/kamalsingh1003/output/github-snake.svg" />
-</picture> 
+</picture>  
 
 ###
 
@@ -49,11 +49,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamalsingh1003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=kamalsingh1003&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=7&date_format=M%20j%5B,%20Y%5D" height="152" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalsingh1003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=kamalsingh1003&theme=kimbie_dark&no-frame=true&no-bg=true&column=-1" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalsingh1003&theme=noctis-minimus&hide_border=false&radius=16&hide_title=false" height="220" alt="activity-graph graph"  />
 </div>
-
-
 
 ###
