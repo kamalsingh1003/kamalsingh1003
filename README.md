@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">I'm a recent graduate with a strong foundation in Java, backend development, and object-oriented design. Experienced with Spring, Hibernate, and RESTful APIs, as well as Git for version control and JUnit for testing. Passionate about contributing to Agile teams and continuously growing my technical skills. Let's connect and build something amazing!</h3>
+<h3 align="left"> Java Developer with expertise in backend development and a strong foundation in Java programming, object-oriented design, and data structures. Proficient in developing robust applications using Spring and Spring Boot, and skilled in creating secure RESTful services. Committed to writing clean, maintainable code and implementing best practices in software development. </h3>
 
 ###
 
